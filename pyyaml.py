@@ -145,3 +145,4 @@ class HardLevel(AbstractLevel):
                         self.objects.append((obj_name, coord))
 
                 return self.objects
+                
